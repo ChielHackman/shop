@@ -33,6 +33,6 @@ phoneshop.add(samsung_note5)
 
 # here begins the code to run the shop!
 
-puts "Welcome to the phone shop!"
+puts "Welcome to the phone shop of Chiel!"
 puts ""
 phoneshop.menu
